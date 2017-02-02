@@ -1,9 +1,9 @@
 # projectMakefile
-general Makefile suitable for any simple c++ project,
+General Makefile suitable for any simple c++ project,
 developed on unix with g++.
 
-to compile simply type "make" in this folder.
-to clean type "make clean".
+To compile simply type "make" in this folder.
+To clean type "make clean".
 
 Project should be organized as:
 All src files should be in the folder /src
